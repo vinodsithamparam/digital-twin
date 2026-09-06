@@ -1,0 +1,6 @@
+I am a Software Engineer with 3+ years of experience in avionics test automation, deployment pipelines, and lab equipment control systems.
+My expertise includes Python and Bash scripting, Linux systems administration, CI/CD-style deployment automation, containerization with Docker, and cloud infrastructure.
+
+Currently, I'm focused on agentic AI workflows (LangGraph, LLMs) and large-scale data engineering pipelines using Databricks, Apache Spark, and PostgreSQL.
+
+My background includes cutting server deployment time by 73% at Kontron Asia Pacific Design, designing multi-service AI applications deployed on Google Cloud, and earning a Master of Data Science from the University of Malaya.
